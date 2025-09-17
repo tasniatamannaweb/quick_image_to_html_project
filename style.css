@@ -159,6 +159,7 @@ header{
   margin: 0;
   word-spacing: 1px;
   line-height: 25px;
+  padding-left:10%
 }
 
 .s_right{
@@ -172,13 +173,8 @@ header{
   font-weight: 700px;
   color: #0E2556;
   margin: 0;
+  padding-right:20%;
 }
-
-.s_right h1 span{
-  display: inline-block;
-  line-height: 1.1;
-}
-
 /*success end*/
 
 /*feature start*/
@@ -264,6 +260,7 @@ overflow: hidden;
   color: #ffffff;
 }
 /*footer end */
+
 
 
 
