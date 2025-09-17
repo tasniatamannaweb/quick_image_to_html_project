@@ -164,7 +164,7 @@ header{
 .s_right{
  width: 40%;
  float: right;
- padding: 0 30px 0 10px;
+ padding: 0 1% 0 1%;
 }
 
 .s_right h1{
@@ -264,5 +264,6 @@ overflow: hidden;
   color: #ffffff;
 }
 /*footer end */
+
 
 
